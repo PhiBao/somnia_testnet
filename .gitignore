@@ -1,0 +1,13 @@
+# Ignore environment variables
+.env
+
+# Node modules
+node_modules
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+build-info/
+
+# Optional: Ignore TypeChain generated files
+typechain/
